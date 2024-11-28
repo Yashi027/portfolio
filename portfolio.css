@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+}
+nav{
+ background-color: black;
+ color:white;
+ height:50px;
+}
+.navbar{
+    display:flex;
+    justify-content: flex-start;
+    font-size: large;
+}
+span{
+    font-size: larger;
+    padding: 4px;
+    padding-top: 7px;
+    margin: 20px;
+}
+body{
+    background-color: black;
+    color:white;
+}
+h1{
+    margin-top: 150px;
+    margin-left: 180px;
+}
+h2{
+    margin-left: 180px;
+}
+p{
+    margin-left: 180px;
+    font-size: large;
+}
+span:hover{
+    text-decoration: underline;
+}
+img{
+    position: absolute;
+    top: 150px;
+    right: 280px;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+#contact{
+    margin-left: 180px;
+}
+#link{
+    margin-left: 180px;
+    text-decoration: underline;
+    color:rgb(190, 215, 215);
+}
